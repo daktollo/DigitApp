@@ -5,7 +5,6 @@ A simple desktop application that recognizes handwritten digits using a neural n
 ## Features
 
 - Interactive drawing canvas
-- Real-time digit recognition
 - Confidence score for predictions
 - Simple and intuitive user interface
 - Built-in model training capability
